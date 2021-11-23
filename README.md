@@ -3,11 +3,17 @@ I am Ainagul, a passionate self-taught full stack cloud developer and busy mom f
 
 I take knowledge from open sources such as Coursera and Youtube 👩‍💻
 
-I am always trying grow and learn something new. I lose track of time when I am making crafts 🧶 or simply reading a good book 📚
+I am always trying grow and learn something new. 
 
-I am currently learning REACT.JS, and looking for a job where I can improve my skills and abilities further. Working in professional environment it is very important for me to self-improve, career growth and expert self-awareness.
-
-- 💬 Ask me about something I am always ready to help.
-- 📫 How to reach me: https://www.linkedin.com/in/ainagul-borambayeva-13955b210/
-- 😄 Pronouns: Aina (her)
 -->
+
+My works: 
+
+1.    I built a serverless website and chatbot from a number of AWS services, including AWS Lambda, Amazon API Gateway, Amazon DynamoDB, and Amazon Lex.
+https://dh1069tbdmry0.cloudfront.net/ 
+
+
+2.    With featured and recent posts, categories, full markdown articles, author information, comments, and much more, this fully responsive #HeadlessCMS Blog App is the GraphQL Blog Application. Possible manage the blog from a dedicated Content Management System. Built with the newest technologies such as React JS, #NextJS, Tailwind CSS, #GraphQL, and GraphCMS. 
+ https://myfirstblog-graphcms.vercel.app/
+
+
